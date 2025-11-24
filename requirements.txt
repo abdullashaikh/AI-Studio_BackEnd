@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+psycopg2-binary
+pymongo
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+pillow
+pytesseract
+pdf2image
+weaviate-client
+python-dotenv
+redis
+rq
+requests
